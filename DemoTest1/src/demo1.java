@@ -9,7 +9,7 @@ public class demo1 {
 		
 		System.out.println("Hello World - first commit");
 		System.out.println("Hello World - second commit");
-		System.out.println("Hello World - Online change")
+		System.out.println("Hello World - Online change");
 	}
 
 }
